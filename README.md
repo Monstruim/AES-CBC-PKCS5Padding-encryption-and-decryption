@@ -8,7 +8,7 @@ The algorithm uses
 
 Bellow Image shows how the encryption works and the input of each varible.                                                 
                                                  
--Enryption
+-Enryption.
 
 ![alt text](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*WmpqO5-4hNvJSKnsOTDZUQ.png)
                                                                                                   
@@ -16,6 +16,6 @@ Bellow Image shows how the encryption works and the input of each varible.
                                                                                                                                                                                                                                         
                                                                                                                                                                              
                                                                                                                                                                                                          
--Decryption
+-Decryption.
                                                  
 ![alt text](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*4gWh_cwfK4Sr_aRaodqKLQ.png)
